@@ -62,7 +62,7 @@ Promise.allSettled([promise1, promise2])
 Promise.any([promise1, promise2])
     .then((response) => {
         console.log("Any:", response);
-    })
+    w})
     .catch((error) => {
         console.log("All promises rejected:", error);
     });
