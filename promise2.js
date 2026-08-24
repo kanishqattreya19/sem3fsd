@@ -66,3 +66,4 @@ Promise.any([promise1, promise2])
     .catch((error) => {
         console.log("All promises rejected:", error);
     });
+    
