@@ -1,0 +1,23 @@
+{
+  "name": "sem3fsd",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/kanishqattreya19/sem3fsd#readme",
+  "bugs": {
+    "url": "https://github.com/kanishqattreya19/sem3fsd/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanishqattreya19/sem3fsd.git"
+  },
+  "license": "ISC",
+  "author": "Kanishq Attreya",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
